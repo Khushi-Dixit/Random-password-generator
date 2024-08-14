@@ -29,15 +29,18 @@ The **Random Password Generator** is a Python-based tool that generates secure, 
 
 cd random-password-generator
 
+
 Usage
-Run the script:
+1.Run the script:
 
 python password_generator.py
-Follow the on-screen prompts:
+
+2.Follow the on-screen prompts:
 
 Enter the desired password length.
 Specify whether to include letters, numbers, and special characters.
-The generated password will be displayed on the screen.
+
+3.The generated password will be displayed on the screen.
 
 Example
 
@@ -48,6 +51,8 @@ Include numbers? (y/n): y
 Include special characters? (y/n): y
 
 Generated Password: a8#sG@k2V9hJ
+
+
 Customization
 You can customize the script by modifying the options for character sets in the password_generator.py file:
 
