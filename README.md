@@ -25,7 +25,7 @@ The **Random Password Generator** is a Python-based tool that generates secure, 
    git clone https://github.com/yourusername/random-password-generator.git
 
    
-2.Navigate to the project directory:
+ 2.Navigate to the project directory:
   
 
       cd random-password-generator '/'
@@ -45,13 +45,19 @@ Specify whether to include letters, numbers, and special characters.
 
 Example
 
+```
 python password_generator.py
+
 Enter desired password length: 12
+
 Include letters? (y/n): y
+
 Include numbers? (y/n): y
+
 Include special characters? (y/n): y
 
 Generated Password: a8#sG@k2V9hJ
+```
 
 
 Customization
